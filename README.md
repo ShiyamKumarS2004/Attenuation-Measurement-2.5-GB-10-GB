@@ -1,5 +1,8 @@
 # Attenuation Measurement 2.5 GB & 10 GB
 # Attenuation-Limited Fiber Length
+# NAME : SHIYAM KUMAR S 
+# REG NO : 212223060260
+
 
 ## Objective
 - Calculate the attenuation-limited fiber length based on the power budget equation.  
@@ -64,21 +67,29 @@ Using the power budget equation and the parameters below, determine the attenuat
 ---
 
 ## Analysis and Report
-Compare simulation results with pre-lab calculations and record observations.  
+# CALCULATION 
 
-Your report should contain:
-- **Cover Page**
-  - Title of the lab  
-  - Course name and number  
-  - Your name  
+<img width="1200" height="1600" alt="EXP 2    1" src="https://github.com/user-attachments/assets/f80c35ab-9058-41eb-aba2-3ec679b3dec2" />
 
-- **Pre-lab Calculations**  
 
-- **Screenshots** of layout and results (including eye diagrams)  
+<img width="1200" height="1600" alt="EXP 2    2" src="https://github.com/user-attachments/assets/e2292e4f-a64c-44f4-bb51-3858a1c769d6" />
 
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
 
-- **Written Summary** of observations and explanations of differences.  
+
+
+# 2.5 GB 
+
+<img width="1600" height="900" alt="EXP 2 2 5 GB" src="https://github.com/user-attachments/assets/7dcc5498-da5f-4808-ac70-6a6be77eb8e3" />
+
+
+# 10 GB 
+
+
+<img width="1600" height="900" alt="EXP 2   10GB" src="https://github.com/user-attachments/assets/79f954a8-0ce8-4fd2-8360-73a6e8f790ef" />
+
+
+## Result
+Thus the attenuation-limited fiber lenght based on the power budget equation is successfully simulated and verified.
+
+
+
