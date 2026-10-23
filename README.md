@@ -51,10 +51,13 @@ Using the power budget equation and the parameters below, determine the attenuat
 # CALCULATION 
 <img width="1394" height="1423" alt="exp 2 original 1" src="https://github.com/user-attachments/assets/f937ca4a-c9e9-43c4-9fa3-47c250edd253" />
 <img width="1059" height="1600" alt="exp 2 original 2 " src="https://github.com/user-attachments/assets/f4c061d9-f5d4-48bb-ac28-c20c45259b35" />
+
 # 2.5 GB 
 <img width="1600" height="900" alt="EXP 2 2 5 GB" src="https://github.com/user-attachments/assets/7dcc5498-da5f-4808-ac70-6a6be77eb8e3" />
+
 # 10 GB 
 <img width="1600" height="900" alt="EXP 2   10GB" src="https://github.com/user-attachments/assets/79f954a8-0ce8-4fd2-8360-73a6e8f790ef" />
+
 ## Result
 Thus the attenuation-limited fiber lenght based on the power budget equation is successfully simulated and verified.
 
