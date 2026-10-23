@@ -49,8 +49,8 @@ Using the power budget equation and the parameters below, determine the attenuat
 ---
 ## Analysis and Report
 # CALCULATION 
-<img width="1200" height="1600" alt="EXP 2    1" src="https://github.com/user-attachments/assets/f80c35ab-9058-41eb-aba2-3ec679b3dec2" />
-<img width="1200" height="1600" alt="EXP 2    2" src="https://github.com/user-attachments/assets/e2292e4f-a64c-44f4-bb51-3858a1c769d6" />
+<img width="1394" height="1423" alt="exp 2 original 1" src="https://github.com/user-attachments/assets/f937ca4a-c9e9-43c4-9fa3-47c250edd253" />
+<img width="1059" height="1600" alt="exp 2 original 2 " src="https://github.com/user-attachments/assets/f4c061d9-f5d4-48bb-ac28-c20c45259b35" />
 # 2.5 GB 
 <img width="1600" height="900" alt="EXP 2 2 5 GB" src="https://github.com/user-attachments/assets/7dcc5498-da5f-4808-ac70-6a6be77eb8e3" />
 # 10 GB 
