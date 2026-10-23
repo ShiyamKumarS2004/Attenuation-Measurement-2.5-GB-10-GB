@@ -24,10 +24,8 @@ Using the power budget equation and the parameters below, determine the attenuat
 - **Number of connectors:** 2  
 - **Loss per connector:** 0.5 dB  
 - **Additional known losses:** 0 dB  
-- **Power margin:** 6 dB  
-
+- **Power margin:** 6 dB
 ---
-
 ## Layout
 - The system has been created using **OptiSystem** and exported as an **OptiPerformer** file.  
 - Two versions exist: one for **2.5 Gb/s** and one for **10 Gb/s**.  
@@ -37,9 +35,7 @@ Using the power budget equation and the parameters below, determine the attenuat
 - Dispersion and nonlinear effects in the fiber are disabled.  
 - To set the receiver sensitivity to -30 dBm for 2.5 Gb/s, set the **thermal noise parameter** in the receiver to **8.97e-24 W/Hz**.  
 - Visualizer components are included to obtain necessary simulation data.  
-
 ---
-
 ## Simulation
 1. Run the simulation and record:
    - **Optical power levels (dBm):**
@@ -49,33 +45,16 @@ Using the power budget equation and the parameters below, determine the attenuat
      - BER  
      - Q factor  
      - Eye diagram  
-
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
-
 ---
-
 ## Analysis and Report
 # CALCULATION 
-
 <img width="1200" height="1600" alt="EXP 2    1" src="https://github.com/user-attachments/assets/f80c35ab-9058-41eb-aba2-3ec679b3dec2" />
-
-
 <img width="1200" height="1600" alt="EXP 2    2" src="https://github.com/user-attachments/assets/e2292e4f-a64c-44f4-bb51-3858a1c769d6" />
-
-
-
-
 # 2.5 GB 
-
 <img width="1600" height="900" alt="EXP 2 2 5 GB" src="https://github.com/user-attachments/assets/7dcc5498-da5f-4808-ac70-6a6be77eb8e3" />
-
-
 # 10 GB 
-
-
 <img width="1600" height="900" alt="EXP 2   10GB" src="https://github.com/user-attachments/assets/79f954a8-0ce8-4fd2-8360-73a6e8f790ef" />
-
-
 ## Result
 Thus the attenuation-limited fiber lenght based on the power budget equation is successfully simulated and verified.
 
